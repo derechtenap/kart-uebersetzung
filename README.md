@@ -1,2 +1,2 @@
 # kart-uebersetzung
- Berechnung der Übersetzung
+Berechnung der Übersetzung von Rennkarts
